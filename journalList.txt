@@ -1,0 +1,15 @@
+{Nature Astronomy} = {NatAs}
+{The Astrophysical Journal Letters} = {ApJL}
+{The Astrophysical Journal Supplement Series} = {ApJS}
+{The Astrophysical Journal} = {ApJ}
+{The Astronomical Journal} = {AJ}
+{Research in Astronomy and Astrophysics} = {RAA}
+{Astronomy \& Astrophysics} = {A\&A}
+{Astronomy and Astrophysics} = {A\&A}
+{arXiv preprint = {
+{Monthly Notices of the Royal Astronomical Society: Letters} = {MNRAS:L}
+{Monthly Notices of the Royal Astronomical Society} = {MNRAS}
+{Reviews of Modern Physics} = {RvMP}
+{Annual Review of Nuclear and Particle Science} = {ARNPS} 
+{The Observatory} = {Obs} 
+{Annu. Rev. Nucl. Part. Sci.} = {ARNPS}

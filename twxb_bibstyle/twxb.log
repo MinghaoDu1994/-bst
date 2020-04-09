@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=latex 2018.12.10)  7 APR 2020 19:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=latex 2018.12.10)  9 APR 2020 14:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -57,10 +57,10 @@ Generating file(s) ./twxb.bst
 \openout0 = `./twxb.bst'.
 
 
-Processing file merlin.mbs (seq-no,vonx,nm-rev,ed-rev,jnrlst,nmlm,x3,m3,dt-jnl,
-yr-com,xmth,tit-it,atit-u,jtit-x,jxper,jttl-rm,thtit-x,trnum-it,vnum-x,volp-sp,
-jpg-1,pp-last,num-xser,bkpg-x,add-pub,pub-date,pub-xpar,pre-edn,isbn,in-x,fin-b
-are,xedn,jabr,and-xcom,em-x,nfss,) -> twxb.bst
+Processing file merlin.mbs (seq-no,vonx,nm-rv,ed-rev,jnrlst,nmlm,x3,m3,dt-jnl,y
+r-com,xmth,tit-it,atit-u,jtit-x,jxper,jttl-rm,thtit-x,trnum-it,vnum-x,volp-sp,j
+pg-1,pp-last,num-xser,bkpg-x,add-pub,pub-date,pub-xpar,pre-edn,isbn,in-x,fin-ba
+re,xedn,jabr,and-xcom,em-x,nfss,) -> twxb.bst
 Lines  processed: 9446
 Comments removed: 3867
 Comments  passed: 1
@@ -70,7 +70,7 @@ Codelines passed: 3732
 Here is how much of TeX's memory you used:
  631 strings out of 492650
  5428 string characters out of 6129647
- 72463 words of memory out of 5000000
+ 72458 words of memory out of 5000000
  4607 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191

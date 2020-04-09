@@ -4,7 +4,7 @@
 %%
 %% The original source files were:
 %%
-%% merlin.mbs  (with options: `seq-no,vonx,nm-rev,ed-rev,jnrlst,nmlm,x3,m3,dt-jnl,yr-com,xmth,tit-it,atit-u,jtit-x,jxper,jttl-rm,thtit-x,trnum-it,vnum-x,volp-sp,jpg-1,pp-last,num-xser,bkpg-x,add-pub,pub-date,pub-xpar,pre-edn,isbn,in-x,fin-bare,xedn,jabr,and-xcom,em-x,nfss,')
+%% merlin.mbs  (with options: `seq-no,vonx,nm-rv,ed-rev,jnrlst,nmlm,x3,m3,dt-jnl,yr-com,xmth,tit-it,atit-u,jtit-x,jxper,jttl-rm,thtit-x,trnum-it,vnum-x,volp-sp,jpg-1,pp-last,num-xser,bkpg-x,add-pub,pub-date,pub-xpar,pre-edn,isbn,in-x,fin-bare,xedn,jabr,and-xcom,em-x,nfss,')
 %% ----------------------------------------
 %% *** This .bst is for chinese twxb (ACTA ASTRONOMOCA SINICA) ***
 %% 
@@ -392,8 +392,9 @@ FUNCTION {format.names}
   numnames 'namesleft :=
     { namesleft #0 > }
     { s nameptr
-      "{vv~}{ll}{, f.}{, jj}"
+      "{vv~}{ll}{ f{~}}{ jj}"
       format.name$
+      remove.dots
       bibinfo bibinfo.check
       't :=
       nameptr #1 >

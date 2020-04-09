@@ -95,8 +95,8 @@ End of customized bst file
 % ed-au,%: Full, surname last
 % nm-revf,%: Full, surname first
 % nm-init,ed-au,%: Initials + surname
-  nm-rev,%: Surname + initials
-% nm-rv,%: Surname + dotless initials
+% nm-rev,%: Surname + initials
+  nm-rv,%: Surname + dotless initials
 % nm-rvvc,%: Surname + comma + spaceless initials
 % nm-rvx,%: Surname + pure initials
 % nm-rvcx,%: Surname + comma + pure initials
